@@ -1,0 +1,379 @@
+[
+    {
+        "info": {
+            "keywordInfo": [],
+            "headInfo": {
+                "videoLink": "https://video.kurashiru.com/production/videos/e3fd1786-3931-4324-81a6-1f1f5b02ed55/webm/master.webm",
+                "captureLink": "https://video.kurashiru.com/production/videos/e3fd1786-3931-4324-81a6-1f1f5b02ed55/compressed_thumbnail_square_normal.jpg?1734367704",
+                "name": "簡単ふわとろ！親子丼",
+                "description": "ふわとろ卵がおいしい、親子丼のご紹介です。卵を2回に分けて入れることで、簡単にふわふわとろとろの親子丼がお作りいただけます。昼ごはんや夜ごはんにぜひ試してみてくださいね。",
+                "time": 30,
+                "cost": 200
+            },
+            "material": [
+                {
+                    "name": "ごはん",
+                    "volumn": "400g"
+                },
+                {
+                    "name": "玉ねぎ",
+                    "volumn": "1個"
+                },
+                {
+                    "name": "鶏もも肉",
+                    "volumn": "200g"
+                },
+                {
+                    "name": "卵 (Mサイズ)",
+                    "volumn": "2個"
+                },
+                {
+                    "name": "サラダ油",
+                    "volumn": "大さじ1"
+                },
+                {
+                    "name": "(A)料理酒",
+                    "volumn": "大さじ2"
+                },
+                {
+                    "name": "(A)みりん",
+                    "volumn": "大さじ2"
+                },
+                {
+                    "name": "(A)顆粒和風だし",
+                    "volumn": "小さじ1"
+                },
+                {
+                    "name": "(A)砂糖",
+                    "volumn": "大さじ1"
+                },
+                {
+                    "name": "(A)しょうゆ",
+                    "volumn": "大さじ2"
+                },
+                {
+                    "name": "かいわれ大根",
+                    "volumn": "適量"
+                }
+            ],
+            "procedure": [
+                "かいわれ大根の根元は切り落としておきます。",
+                "玉ねぎは半分に切り、薄切りにします。",
+                "鶏もも肉は一口大に切ります。",
+                "ボウルに卵を入れて溶きます。",
+                "フライパンにサラダ油を入れて中火で熱し、玉ねぎを入れて炒めます。",
+                "鶏もも肉の色が変わったら、玉ねぎを入れてしんなりするまで炒め、(A)を加えます。",
+                "中火で煮こみ、鶏もも肉に火が通り、汁気が半量程になったら卵の2/3量を流し入れます。",
+                "卵が半熟状になったら、残りの卵を入れ、中火で10秒程加熱し、火から下ろします。",
+                "器にごはんを盛り付け、卵とかいわれ大根をのせて完成です。"
+            ],
+            "point": "卵を2回に分けて入れることでとろとろに仕上がります。玉ねぎの食感は切り方によって変わります。くし切りにすることで、しゃきしゃきとした食感が増しますので、お好みでお試しください。",
+            "review": {
+                "star": 4.6,
+                "reviewCount": 6412,
+                "moreInfo": "407.9K件",
+                "userReview": [
+                    {
+                        "userName": "iwaki",
+                        "userIcon": "https://image.accounts.kurashiru.com/users/239cc605-ee44-4f8d-a1f2-43413ddf01a2/profile_picture_small.jpg?t=1634180931",
+                        "capture": "https://video.kurashiru.com/production/video_tsukurepos/541353/compressed_picture_normal.jpg?1621333337",
+                        "date": "2021.5.18",
+                        "reviewStar": 5,
+                        "reviewComment": "汁だくが好みなので調味料2.5倍＋水60くらい追加。美味しい。"
+                    },
+                    {
+                        "userName": "ユーザーaf21a6",
+                        "userIcon": "https://image.accounts.kurashiru.com/images/default_profile_icon_4.jpg?t=1667803488",
+                        "capture": null,
+                        "date": "2021.6.20",
+                        "reviewStar": 5,
+                        "reviewComment": "何度も作ってます。間違いない。"
+                    },
+                    {
+                        "userName": "とみたん",
+                        "userIcon": "https://image.accounts.kurashiru.com/users/ab2b7a3d-130d-4731-b6d5-415866906e6e/profile_picture_small.jpg?t=1679130150",
+                        "capture": "https://video.kurashiru.com/production/video_tsukurepos/544577/compressed_picture_normal.jpg?1621804905",
+                        "date": "2021.5.23",
+                        "reviewStar": 5,
+                        "reviewComment": "かいわれが無かったのでネギを散らしました。少し甘いので次回はお砂糖控えめで作ろうと思います。"
+                    },
+                    {
+                        "userName": "yosinono",
+                        "userIcon": "https://image.accounts.kurashiru.com/users/5a169fe5-22d8-46ba-a97c-7126578a073c/profile_picture_small.jpg?t=1635871404",
+                        "capture": "https://video.kurashiru.com/production/video_tsukurepos/544577/compressed_picture_normal.jpg?1621804905",
+                        "date": "2022.3.5",
+                        "reviewStar": 5,
+                        "reviewComment": "玉ねぎ1.5個。卵3個。汁だくの時は+味醂·酒·醤油を各大1。砂糖小1。水30㎖。旦那から「美味い！やるやん！」「美味かった」と完食✨"
+                    },
+                    {
+                        "userName": "にいづま。",
+                        "userIcon": "https://image.accounts.kurashiru.com/users/7ad25c27-bd25-499b-8cd5-66a7f2088c08/profile_picture_small.png?t=1622551293",
+                        "capture": "https://video.kurashiru.com/production/video_tsukurepos/598266/compressed_picture_normal.jpg?1631020943",
+                        "date": "2022.2.22",
+                        "reviewStar": 5,
+                        "reviewComment": "煮詰め過ぎてしまうのか、いつもレシピ通りだと味と色ががものすごく濃いので、いつも水を100㎖ほど入れています。汁ダクにもなって美味しいてます♪"
+                    }
+                ]
+            },
+            "frequenQuestions": [
+                {
+                    "questionContent": "レシピで使用している酒の種類を教えてください",
+                    "questionAnswer": "料理酒を使用しています。"
+                },
+                {
+                    "questionContent": "酒の代用はありますか？",
+                    "questionAnswer": "風味は変わりますが、日本酒や白ワインで代用できます。"
+                },
+                {
+                    "questionContent": "日持ちはどれくらいですか？",
+                    "questionAnswer": "こちらのレシピは出来たてをお召し上がりいただくことをおすすめします。"
+                }
+            ],
+            "question": [
+                {
+                    "userIcon": "https://image.accounts.kurashiru.com/users/7dbcd2b6-dc93-4a85-a5ff-1b88b5ba41c2/profile_picture_small.png?t=1591869336",
+                    "questionUser": "おかゆ",
+                    "quesionContent": "かいわれ大根がなければ何を使えばいいですか？？",
+                    "answer": "かいわれ大根の代わりに、豆苗や小ねぎ、海苔を使用してもお作りいただけます。ご用意しやすい食材でお試しくださいね。"
+                },
+                {
+                    "userIcon": "https://image.accounts.kurashiru.com/users/fce4d72d-2c40-4e11-b1f6-c8f5f59c3c21/profile_picture_small.jpg?t=1542861189",
+                    "questionUser": "Rie",
+                    "quesionContent": "鶏胸肉でも作れますか？",
+                    "answer": "食感は変わりますが、鶏もも肉の代わりに鶏むね肉を使用してもお作りいただけます。"
+                },
+                {
+                    "userIcon": "https://image.accounts.kurashiru.com/images/default_profile_icon_3.jpg?t=1593588449",
+                    "questionUser": "ユーザー25cff2",
+                    "quesionContent": "つゆだくにしたい場合、調味料はどれくらいにするといいですか",
+                    "answer": "つゆだくに仕上げる場合は、だし汁を追加することをおすすめいたします。"
+                }
+            ],
+            "relative_receipt": []
+        }
+    },
+    {
+        "info": {
+            "keywordInfo": [],
+            "headInfo": {
+                "videoLink": "https://video.kurashiru.com/production/videos/34a5fc6a-8411-47a3-82ad-555332eb9671/webm/master.webm",
+                "captureLink": "https://video.kurashiru.com/production/videos/34a5fc6a-8411-47a3-82ad-555332eb9671/compressed_thumbnail_square_normal.jpg?1734367704",
+                "name": "ハニーマヨで簡単 かぼちゃサラダ",
+                "description": "かぼちゃの甘みを存分に引き出したサラダです。はちみつとかぼちゃの相性が良く、甘さがしつこくないのでサラッと食べられます。おかずにもう一品ほしいときはもちろん、おつまみとしてもぴったり。簡単なので、ぜひお試しくださいね。",
+                "time": 30,
+                "cost": 350
+            },
+            "material": [
+                {
+                    "name": "かぼちゃ",
+                    "volumn": "350g"
+                },
+                {
+                    "name": "玉ねぎ",
+                    "volumn": "100g"
+                },
+                {
+                    "name": "塩",
+                    "volumn": "小さじ1/2"
+                },
+                {
+                    "name": "(A)はちみつ",
+                    "volumn": "大さじ2"
+                },
+                {
+                    "name": "(A)マヨネーズ",
+                    "volumn": "大さじ5"
+                },
+                {
+                    "name": "ミニトマト",
+                    "volumn": "2個"
+                },
+                {
+                    "name": "フリルレタス",
+                    "volumn": "1枚"
+                }
+            ],
+            "procedure": [
+                "かぼちゃの種とワタをスプーンで取っておきます。",
+                "玉ねぎを薄切りにし、ボウルに入れて塩をふって、10分ほどおいたら、絞って水気を切ります。",
+                "かぼちゃの皮をそぎ落とし、耐熱ボウルに入れてラップをし、600Wの電子レンジで5分加熱します。",
+                "熱いうちにマッシャーで潰し、1と(A)を入れて混ぜ合わせます。お皿に盛り付け、フリルレタスとミニトマトを添えて完成です。"
+            ],
+            "point": "調味料の加減は、お好みで調整してください。こちらのレシピははちみつを使用しております。1歳未満（乳幼児）のお子様はお召し上がりにならないようご注意ください。ご使用の電子レンジの機種や耐熱容器の種類、食材の状態により加熱具合に誤差が生じます。様子を確認しながら完全に火が通るまで、必要に応じて加熱時間を調整しながら加熱してください。",
+            "review": {
+                "star": 4.5,
+                "reviewCount": 511,
+                "moreInfo": "166件のレビュー",
+                "userReview": [
+                    {
+                        "userName": "M-c💕",
+                        "userIcon": "https://image.accounts.kurashiru.com/users/7c0e3a9d-eefd-4551-a6cc-8f303dc3b943/profile_picture_large.jpeg?t=1651550081",
+                        "capture": "https://video.kurashiru.com/production/video_tsukurepos/470343/compressed_picture_normal.jpg?1610083265",
+                        "date": "2021.1.8",
+                        "reviewStar": 5,
+                        "reviewComment": "隠し味に粒マスタード入れたら、グッと美味しくなりました！また作りまーす^_^"
+                    },
+                    {
+                        "userName": "ayaka",
+                        "userIcon": "https://image.accounts.kurashiru.com/users/35ed082c-89ac-4285-9ea7-0c1241576c5a/profile_picture_large.jpeg?t=1608613529",
+                        "capture": "https://video.kurashiru.com/production/video_tsukurepos/466321/compressed_picture_normal.jpg?1609057269",
+                        "date": "2020.12.27",
+                        "reviewStar": 4,
+                        "reviewComment": "ハムも入れてみました！とってもクリーミーな味です♪玉ねぎの辛味が強かったのでレンチンした方がよさそうです！"
+                    },
+                    {
+                        "userName": "☺︎",
+                        "userIcon": "https://image.accounts.kurashiru.com/images/default_profile_icon_1.jpg?t=1573245849",
+                        "capture": "https://video.kurashiru.com/production/video_tsukurepos/504279/compressed_picture_normal.jpg?1615281662",
+                        "date": "2021.3.9",
+                        "reviewStar": 5,
+                        "reviewComment": "もう何回もリピしてるくらい美味しくて大好きです。そのままでも勿論美味しいですが食パンにたっぷり塗って上にマヨネーズとピザ用チーズ乗せてトースターで焼いて食べても美味しいです！"
+                    }
+                ]
+            },
+            "frequenQuestions": [
+                {
+                    "questionContent": "日持ちはどれくらいですか？",
+                    "questionAnswer": "保存期間は冷蔵で当日中が目安です。なるべくお早めにお召し上がりください。"
+                }
+            ],
+            "question": [
+                {
+                    "userIcon": "https://image.accounts.kurashiru.com/users/553a00e5-0bfb-4de6-a700-d481b19dcd38/profile_picture_large.jpg?t=1549518533",
+                    "questionUser": "志帆ママ",
+                    "quesionContent": "はちみつ無しでも大丈夫でしょうか？",
+                    "answer": "お好みではちみつは抜いていただいてもお作りいただけますよ。ぜひ試してみてくださいね。よろしければ「たべれぽ」への投稿も楽しみにしております。"
+                },
+                {
+                    "userIcon": "https://image.accounts.kurashiru.com/users/e6497386-5ac0-4ce7-9aeb-eafc31236969/profile_picture_large.jpg?t=1569182540",
+                    "questionUser": "りおママ",
+                    "quesionContent": "ハチミツの代わりにメープルシロップでも良いですか？ もし代用出来る時はハチミツと同じ分量ですか？",
+                    "answer": "仕上がりの風味は変わりますが、メープルシロップでも代用していただけます。分量ははちみつと同量でも大丈夫ですが、味加減を見ながらお好みで調整もしてみてくださいね。美味しくできますように。"
+                },
+                {
+                    "userIcon": "https://image.accounts.kurashiru.com/users/e4805250-3085-40e7-a5c1-87a173369e64/profile_picture_large.jpg?t=1512286213",
+                    "questionUser": "あーさん",
+                    "quesionContent": "玉ねぎが入って美味しそう！カボチャは冷凍でもいいですか？",
+                    "answer": "かぼちゃは冷凍のものでも大丈夫ですが、柔らかくなるまで加熱してくださいね。おいしいので、ぜひ作ってみてくださいね。"
+                }
+            ],
+            "relative_receipt": []
+        }
+    },
+    {
+        "info": {
+            "keywordInfo": [],
+            "headInfo": {
+                "videoLink": "https://video.kurashiru.com/production/videos/287235e4-db7e-4e4c-b0a3-0008581de012/webm/master.webm",
+                "captureLink": "https://video.kurashiru.com/production/videos/287235e4-db7e-4e4c-b0a3-0008581de012/compressed_thumbnail_square_normal.jpg?1733676461",
+                "name": "無限に食べられる！？やみつき胡麻キャベツ",
+                "description": "やみつき胡麻キャベツのご紹介です。キャベツ消費レシピです。水切りをしたキャベツはかさが減るのでいくらでも食べられてしまいます。今回はさっぱりと酸味のあるお味にたっぷりと胡麻を加えています。ぜひお試しくださいね。",
+                "time": 30,
+                "cost": 70
+            },
+            "material": [
+                {
+                    "name": "キャベツ",
+                    "volumn": "1/4個"
+                },
+                {
+                    "name": "塩",
+                    "volumn": "小さじ1/4"
+                },
+                {
+                    "name": "酢",
+                    "volumn": "大さじ1"
+                },
+                {
+                    "name": "醤油",
+                    "volumn": "大さじ1"
+                },
+                {
+                    "name": "砂糖",
+                    "volumn": "大さじ1"
+                },
+                {
+                    "name": "白すりごま",
+                    "volumn": "大さじ2"
+                },
+                {
+                    "name": "マヨネーズ",
+                    "volumn": "大さじ2"
+                },
+                {
+                    "name": "白ごま",
+                    "volumn": "適量"
+                }
+            ],
+            "procedure": [
+                "キャベツはスライサーで千切りにし、塩を揉んで10分ほどおいておきます。",
+                "キャベツを揉むようにしてしんなりとさせ、水気をしっかりと切ります。",
+                "調味料を加えてよく和えます。",
+                "白ごまをかけて完成です。"
+            ],
+            "point": "調味料の加減は、お好みで調整してください。",
+            "review": {
+                "star": 4.4,
+                "reviewCount": 567,
+                "moreInfo": "45.6K件",
+                "userReview": [
+                    {
+                        "userName": "つぶ貝",
+                        "userIcon": "https://image.accounts.kurashiru.com/users/cdc4219a-5c1e-4d10-b479-1be06afec6f0/profile_picture_large.jpeg?t=1626528606",
+                        "capture": "https://video.kurashiru.com/production/video_tsukurepos/534229/compressed_picture_normal.jpg?1620246092",
+                        "date": "2021.5.5",
+                        "reviewStar": 5,
+                        "reviewComment": "美味しくダイエット！(笑)キャベツの大量消費に最適です！シャキシャキ過ぎない方が沢山食べれるので、塩揉みの代わりにレンチンしました。ゴマの香りが引き立ちとても美味しかったです。"
+                    },
+                    {
+                        "userName": "kumasi",
+                        "userIcon": "https://image.accounts.kurashiru.com/users/b7407945-9a8d-4df8-a9ff-393c92793209/profile_picture_large.jpeg?t=1633328460",
+                        "capture": "https://video.kurashiru.com/production/video_tsukurepos/568245/compressed_picture_normal.jpg?1625714526",
+                        "date": "2021.7.8",
+                        "reviewStar": 4,
+                        "reviewComment": "ハムと新玉ネギ入れました。もりもりキャベツが食べられて酸っぱさがヤミツキになりそうです！"
+                    },
+                    {
+                        "userName": "みく",
+                        "userIcon": "https://image.accounts.kurashiru.com/images/default_profile_icon_4.jpg?t=1543491543",
+                        "capture": "https://video.kurashiru.com/production/video_tsukurepos/546386/compressed_picture_normal.jpg?1622103688",
+                        "date": "2021.5.27",
+                        "reviewStar": 5,
+                        "reviewComment": "増量で作りました！味がしっかりついていて飽きずに美味しく食べられます。すりごまはたくさん入れたほうがさらに美味しいです！"
+                    },
+                    {
+                        "userName": "rena",
+                        "userIcon": "https://image.accounts.kurashiru.com/users/d7b3992b-aedc-4967-b52c-8c2ec76c9784/profile_picture_large.jpg?t=1661687777",
+                        "capture": "https://video.kurashiru.com/production/video_tsukurepos/755645/compressed_picture_normal.jpg?1661844059",
+                        "date": "2022.8.30",
+                        "reviewStar": 5,
+                        "reviewComment": "本当に無限に食べられる美味しさでした。キャベツはある程度ざっくりした千切りでも全然平気でした！"
+                    },
+                    {
+                        "userName": "ぴこさん",
+                        "userIcon": "https://image.accounts.kurashiru.com/users/197f4797-84d9-4a9c-ac52-607f9a620a76/profile_picture_large.jpg?t=1676930447",
+                        "capture": "https://video.kurashiru.com/production/video_tsukurepos/637975/compressed_picture_normal.jpg?1637918496",
+                        "date": "2021.11.26",
+                        "reviewStar": 4,
+                        "reviewComment": "胡麻とマヨネーズがマッチしてとても美味しいです。キャベツ4分の1を2人であっという間に食べれました。"
+                    }
+                ]
+            },
+            "frequenQuestions": [
+                {
+                    "questionContent": "日持ちはどれくらいですか？",
+                    "questionAnswer": "保存期間は冷蔵で当日中が目安です。なるべくお早めにお召し上がりください。"
+                }
+            ],
+            "question": [
+                {
+                    "userIcon": "https://image.accounts.kurashiru.com/users/d5004f49-73d0-460e-b9a4-3ddb2e06a7c3/profile_picture_large.jpg?t=1478830148",
+                    "questionUser": "みっく",
+                    "quesionContent": "お弁当に入れたいのですが、冷凍はできないですか？？",
+                    "answer": "こちらのレシピは生野菜を使用しており、水気が出たり食感を損なう可能性があるためお弁当や冷凍保存には不向きです。ぜひご家庭でおいしく召し上がってくださいね。"
+                }
+            ],
+            "relative_receipt": []
+        }
+    }
+]
